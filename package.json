@@ -1,0 +1,28 @@
+{
+  "name": "Graphql_MongoDB",
+  "version": "1.0.0",
+  "description": "Walkthrough = https://dev.to/adityajoshi12/graphql-with-nodejs-and-mongodb-2bdm",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/seventh1976/Graphql_MongoDB.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/seventh1976/Graphql_MongoDB/issues"
+  },
+  "homepage": "https://github.com/seventh1976/Graphql_MongoDB#readme",
+  "dependencies": {
+    "express": "^4.17.1",
+    "express-graphql": "^0.12.0",
+    "graphql": "^15.5.0",
+    "graphql-compose": "^7.25.1",
+    "graphql-compose-mongoose": "^9.2.2",
+    "mongoose": "^5.12.5"
+  }
+}
